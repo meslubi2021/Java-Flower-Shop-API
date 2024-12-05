@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
-			<version>1.14.3</version> <!-- Versão pode variar -->
+			<version>1.15.3</version> <!-- Versão pode variar -->
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -84,7 +84,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.26</version> <!-- Substitua pela versão correta -->
+			<version>8.0.28</version> <!-- Substitua pela versão correta -->
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
